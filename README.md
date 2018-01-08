@@ -1,9 +1,9 @@
 # DISTANCE_CALCULATOR_SEM-4_ES_LAB_Final_Project
 
-AIM/OBJECTIVE
+#AIM/OBJECTIVE
 This project aims in developing a long-range highly cost-effective distance calculator using an ULTRASONIC SEONSOR (HC-SR04) and LPC1768 in Keil.
 
-TECHICAL DETAILS
+#TECHICAL DETAILS
 The underlying phenomenon is using the Ultrasonic sensing principle.
 The ultrasonic waves are sounds of frequencies above 20 kHz, which can’t be heard by humans. The applied methodology is based on measuring the pulse reflection time. The sensor emits the sound waves and becomes quiet in order to receive the object echoes. Once the sound wave hit the obstacle, the reflected waves are echoes.
 This sensor cannot be used to detect the object made of a cloth, cotton and wool as these objects absorb majority of the waves.
@@ -19,3 +19,7 @@ VCC and Ground pins are connected to any two port pins that are provided with ac
 d=t*v/2
 The Range of the Sensor (HC-SR04) is from 2cm – 4m.
 The calculated distance can be displayed using either LCD or LED interface present in LPC-1768 Microcontroller. 
+
+#INSTALLATION AND WORKING
+To see how the project is working,download the zip file from the link .After downloading extract the files and then navigate in the KEIL folder and run the application mdk470a (if you have LPC1768 microcontroller with you then run "FLASH MAGIC VER 7.85" application.)
+After Keil is successfully installed run the "distcal.uvproj" file and if you only want to see the source code open the "distcalc.c" in your favourite editor.
