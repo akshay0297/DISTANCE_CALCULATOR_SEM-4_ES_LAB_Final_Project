@@ -21,5 +21,5 @@ The Range of the Sensor (HC-SR04) is from 2cm – 4m.
 The calculated distance can be displayed using either LCD or LED interface present in LPC-1768 Microcontroller. 
 
 INSTALLATION AND WORKING : 
-To see how the project is working,download the zip file from the link .After downloading extract the files and then navigate in the KEIL folder and run the application mdk470a (if you have LPC1768 microcontroller with you then run "FLASH MAGIC VER 7.85" application.)
+To see how the project is working,download the MDK524.exe file from the link https://www.keil.com/demo/eval/arm.htm after entering your details.After downloading run the application MDK524.exe (if you have LPC1768 microcontroller with you then download flash magic tool from http://www.flashmagictool.com/ and run it.)
 After Keil is successfully installed run the "distcal.uvproj" file and if you only want to see the source code open the "distcalc.c" in your favourite editor.
