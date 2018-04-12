@@ -1,7 +1,7 @@
 # DISTANCE_CALCULATOR_SEM-4_ES_LAB_Final_Project
 
 ## AIM/OBJECTIVE :  
-> This project aims in developing a long-range highly cost-effective distance calculator using an `ULTRASONIC SEONSOR (HC-SR04) and LPC1768 in Keil.`
+> This project aims in developing a long-range highly cost-effective distance calculator using an `ULTRASONIC SENSOR (HC-SR04) and LPC1768 in Keil.`
 
 ## TECHICAL DETAILS :
 > The underlying phenomenon is using the Ultrasonic sensing principle.
