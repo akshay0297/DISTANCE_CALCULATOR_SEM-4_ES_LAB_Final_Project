@@ -3,7 +3,7 @@
 ## AIM/OBJECTIVE :  
 > This project aims in developing a long-range highly cost-effective distance calculator using an `ULTRASONIC SENSOR (HC-SR04) and LPC1768 in Keil.`
 
-## TECHICAL DETAILS :
+## TECHINCAL DETAILS :
 > The underlying phenomenon is using the Ultrasonic sensing principle.
 The ultrasonic waves are sounds of frequencies above 20 kHz, which can’t be heard by humans. The applied methodology is based on measuring the pulse reflection time. The sensor emits the sound waves and becomes quiet in order to receive the object echoes. Once the sound wave hit the obstacle, the reflected waves are echoes.
 This sensor cannot be used to detect the object made of a cloth, cotton and wool as these objects absorb majority of the waves.
